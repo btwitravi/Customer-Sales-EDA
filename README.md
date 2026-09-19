@@ -8,8 +8,8 @@ outlier detection, visualization, and hypothesis testing.
 
 ## Files
 
-- `EDA_Practice.ipynb` - Complete Python EDA notebook
-- `EDA_Report.pdf` - EDA analysis report
+- `Customer_Sales_Analysis_EDA.ipynb` - Complete Python EDA notebook
+- `Customer_Sales_Analysis_Reports.pdf` - EDA analysis report
 - `messy_customer_sales_data.csv` - Original dataset
 
 ## Tools & Libraries
@@ -43,8 +43,8 @@ and Old customers.
 
 | File | Description |
 |---|---|
-| `EDA_Practice.ipynb` | Complete EDA notebook |
-| `EDA_Report.pdf` | EDA analysis report |
+| `Customer_Sales_Analysis_EDA.ipynb` | Complete EDA notebook |
+| `Customer_Sales_Analysis_Reports.pdf` | EDA analysis report |
 | `messy_customer_sales_data.csv` | Original dataset |
 | `README.md` | Project documentation |
 
